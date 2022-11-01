@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @JosePerezYoel
-- 👀 I’m interested in almost everything related to programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on pygames and general python projects.
+- 👀 I’m interested in almost everything related to programming. My first language is Python but I'm also fluent in JavaScript and have taken college classes in Java and C#. I like finding ways on how to make code that I've written more efficient and want to keep practicing on writing code that is elegant and easy to read.
+- 🌱 I’m currently learning full-stack web development with a focus on back-end.
+- 💞️ I’m looking to collaborate on web app projects and maybe even expand into mobile app development.
 - 📫 How to reach me: Email - joseperezyoel2003@gmail.com
-
-<!---
-JosePerezYoel/JosePerezYoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
